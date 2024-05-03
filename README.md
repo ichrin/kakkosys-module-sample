@@ -1,0 +1,1 @@
+# kakkosys-module-sample
